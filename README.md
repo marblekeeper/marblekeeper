@@ -1,6 +1,6 @@
 # Jacob Barker
 
-Nashville, TN, 37187 | 559-545-2100 | [Email](mailto:ceo@collecto.dev)
+Nashville, TN | [Email](mailto:ceo@collecto.dev)
 [[LinkedIn]](https://www.linkedin.com/in/jacob-barker-41ab55277/) | [[GitHub]](https://github.com/marblekeeper/MarbleEngine)
 
 ## PROFESSIONAL SUMMARY
