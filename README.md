@@ -1,6 +1,6 @@
 # Jacob Barker
 
-Nashville, TN &nbsp;·&nbsp; 559-545-2100 &nbsp;·&nbsp; jacob.barker.2020@gmail.com &nbsp;·&nbsp; [github.com/marblekeeper](https://github.com/marblekeeper)
+Nashville, TN &nbsp;·&nbsp;  &nbsp;·&nbsp; jacob.barker.2020@gmail.com &nbsp;·&nbsp; [github.com/marblekeeper](https://github.com/marblekeeper)
 
 ---
 
