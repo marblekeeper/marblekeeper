@@ -48,7 +48,7 @@ Self-taught software engineer with nearly 10 years of daily programming experien
 
 ### [BinaryHydration](https://github.com/marblekeeper/BinaryHydration)
 
-- Technical write-up and reference implementation covering binary data hydration patterns in Common Lisp.
+- Technical write-up and reference implementation covering binary data hydration patterns in Common Lisp. 6 GitHub stars from a niche technical audience.
 
 ### [Curvemesher](https://superhivemarket.com/products/curvemesher) · [BrushBatcher](https://superhivemarket.com/products/brush-batcher)
 
